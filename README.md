@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BryceDoesStuff
 - 👀 I’m interested in art, video game development, and web development.
-- 🌱 I’m currently learning drawing and full-stack web development.
+- 🌱 I’m currently learning full-stack web development.
 - 💞️ I’m looking to collaborate on web-portfolios/landing pages
 - 📫 How to reach me: bryceg1203@gmail.com
 
